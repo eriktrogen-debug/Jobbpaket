@@ -1,0 +1,8 @@
+{
+  "name": "Jobbpaket & Leveranskontroll (Maximo / Medius)",
+  "description": "Industriellt planerings- och leveranskontrollsystem för underhållsplanering med Gate 1-5, materialspärr, LOTO, kitting och Medius-attestflöde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
